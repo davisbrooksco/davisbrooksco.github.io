@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<head>
+<title>Easily Communicate</title>
+<style>
+body {
+background: url("https://thebayarean.files.wordpress.com/2014/07/dsc_4020.jpg");
+} 
+</style> 
+</head>
+
+
+<body>
+<h1>The Easy Way to Communicate</h1>
+<p>The art of communicating is touted as an essential, sought-after skill for professionals, especially those concerned with being their best selves. If you google "How to Communicate" a million and one results will appear filled with tips, manual, blogs, books, essays, academic journals, YouTube videos and a few ads inviting you to enroll in a Communications program at your nearest university.</p>
+
+<p> It's easy to get lost in a stew of information overload, so let me share some great news with you: learning to effectively communicate is easy. The hard, but doable part is learning the best way to communicate for you. That's what this blog is about. Taking simple, hilariously easy techniques and putting them to practice in a way that works for you. Join us as we walk the path to become meaningful and clear communicators.</p>
+
+<input type="email" placeholder="Your Email">
+<input type="submit"> 
+
+</body>
